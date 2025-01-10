@@ -3,11 +3,20 @@
 /*                                                        :::      ::::::::   */
 /*   server.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mrosset <marvin@42lausanne.ch>             +#+  +:+       +#+        */
+/*   By: mrosset <mrosset@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/07 14:28:40 by mrosset           #+#    #+#             */
-/*   Updated: 2025/01/07 14:28:42 by mrosset          ###   ########.fr       */
+/*   Updated: 2025/01/10 15:07:26 by mrosset          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "libft.h"
+#include "ft_printf.h"
+ 
+ void   handle_signal(signal)
+ {}
 
+ int    main (void)
+ {
+    return (0);
+ }
