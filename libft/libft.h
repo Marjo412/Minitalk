@@ -19,12 +19,6 @@
 # include <stddef.h>
 # include <signal.h>
 
-typedef struct s_list
-{
-	void			*content;
-	struct s_list	*next;
-}	t_list;
-
 int				ft_atoi(const char *str);
 void			ft_bzero(void *src, size_t n);
 void			*ft_calloc(size_t nb, size_t len);
